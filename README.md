@@ -30,13 +30,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+The Document Object Model is a programming interface that porvides a representation of an HTML document in-window, allowing content to be altered.
+
 2. What is an event?
+
+An action that a user takes within the user interface.
 
 3. What is an event listener?
 
+Code that is on lookout for the aforementioned actions within a particular scope.
+
 4. Why would we convert a NodeList into an Array?
 
+So that you can use array methods on said data.
+
 5. What is a component?
+
+Components are reusable functions used to build elements that share functionality and styling components in JS.
 
 ### Git Set up
 
